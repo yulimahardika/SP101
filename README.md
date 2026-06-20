@@ -37,50 +37,73 @@ This application has no explicit mapping for /error, so you are seeing this as a
 
 
 #EXTM3U
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/h_086iqqq00026/h_086iqqq00026pl.jpg",IQQQ-26 ศิษย์ชวนกระชับ ความลับของคุณครู
-https://ezycdn.com/playlist-5k7a4kfr-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/midv00266/midv00266pl.jpg",MIDV-266 ทริปสลับคู่ เล่นชู้กับแฟนเพื่อน
-https://ezycdn.com/playlist-arqtlu2b-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00641/adn00641pl.jpg",ADN-641 บอสเหลี่ยมสุขขี ยิ่งหนียิ่งจุก
-https://ezycdn.com/playlist-qfej8rca-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00523/sone00523pl.jpg",SONE-523 มองต่ำจนชิน ชวนกินหนมน้า
-https://ezycdn.com/playlist-dj4bhlk7-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://fourhoi.com/heyzo-3383/cover-n.jpg",HEYZO-3383 ใช้หนี้กันบาน ทวงนานทะลุเตียง
-https://ezycdn.com/playlist-igi81u4e-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00925/ipx00925pl.jpg",IPX-925 ผิดที่ยั่ว จืดรัวเปิดซิง
-https://ezycdn.com/playlist-pmkk4pdp-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/bnsps00365/bnsps00365pl.jpg",BNSPS-365 คุณผัวไม่กอด นัดบอดชมเห็ด
-https://ezycdn.com/playlist-1o4h0ujf-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/miaa00774/miaa00774pl.jpg",MIAA-774 เปิดซิง กับเพื่อนสาวคนสนิท
-https://ezycdn.com/playlist-0em66d7-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/3wanz00188/3wanz00188pl.jpg",WANZ-188 บ้านว่างเลยชิล เรียงคิวเพื่อนร่วมห้อง
-https://ezycdn.com/playlist-hhub89u3-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00944/ipx00944pl.jpg",IPX-944 พ่อตาพาฟิน ควงลิ้นอัศจรรย์
-https://ezycdn.com/playlist-42k5vudq-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/atid00623/atid00623pl.jpg",ATID-623 ฉลองงานเสร็จ กินเห็ดเอ็นทีอาร์
-https://ezycdn.com/playlist-f0poi1d2-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00845/ssis00845pl.jpg",SSIS-845 น้องแฟนของดีย์ พี่ลองแล้วติดใจ
-https://ezycdn.com/playlist-6ufuh731-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00787/ssis00787pl.jpg",SSIS-787 เสียท่านักตุ๋น คืนทุนกับพ่อตา
-https://ezycdn.com/playlist-su6qiki9-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/1dldss00382/1dldss00382pl.jpg",DLDSS-382 ร่วมทางปรับทุกข์ สนุกจนเกินเพื่อน
-https://ezycdn.com/playlist-ciu3i4do-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00651/ssis00651pl.jpg",SSIS-651 วางยานอนหลับ ลักหลับลูกน้อง
-https://ezycdn.com/playlist-cf8tq3k6-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/jufe00569/jufe00569pl.jpg",JUFE-569 ห้องเช่าไม่แพง ซดแกงบ้องข้าวหลาม
-https://ezycdn.com/playlist-9gp58lbn-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/meyd00801/meyd00801pl.jpg",MEYD-801 เซอร์วิสมาย คุณนายอยากป่อง
-https://ezycdn.com/playlist-srv9s632-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/meyd00634/meyd00634pl.jpg",MEYD-634 มโนธรรมป่นปี้ ปาร์ตี้บริษัท
-https://ezycdn.com/playlist-ng8i1ddh-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00594/ssis00594pl.jpg",SSIS-594 เสียงกระซิบซาบซ่าน สะท้านทรวง
-https://ezycdn.com/playlist-dq67hcum-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00881/ipx00881pl.jpg",IPX-881 หลานสิ้นท่า ลุงบ้าสายมโน
-https://ezycdn.com/playlist-kd6iegdk-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/waaa00039/waaa00039pl.jpg",WAAA-039 นึกว่าเมีย ใส่เกียร์ผิดช่อง
-https://ezycdn.com/playlist-ta021j0d-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/h_068mxgs00874/h_068mxgs00874pl.jpg",MXGS-874 ว่างจนเบื่อ ปูเสื่อเดบิวต์
-https://ezycdn.com/playlist-87udon2s-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/adn00636/adn00636pl.jpg",ADN-636 พลีกายแผ่หรา คุณสาไม่รักดี
-https://ezycdn.com/playlist-grv62cvf-FHD.m3u8
-#EXTINF:-1 group-title="ASIAN COLLECTIONS" tvg-logo="https://pics.dmm.co.jp/digital/video/h_237nacr00516/h_237nacr00516pl.jpg",NACR-516 ซิงเกิ้ลมัมหุ่นเฟี้ยว ทำเสียวให้เบิ้ล
+ 
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.imgur.com/HYgxPVQ.png",MyTime Movie Network 
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/c7/4e/f2/c74ef24d62e7b57011e78eb48a128863.jpg",MYTIME MOVIE https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free 
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/74/00/39/74003970912407ba7413996efea961ab.jpg",MOVIE SPHERE https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgxTkc5-3HMAF7raMs2HniDl38Ro-DDqDvcNKjP8aXg&s",MovieDome Family 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
+ 
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.imgur.com/T7bGKeV.jpg",&PRIVE ᴴᴰ 
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/ef/1d/ca/ef1dcab5964b8843752163324889818c.jpg",SHEMAROO BOLLY 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/73/3f/3b/733f3b353376675a9b85650d0b3973db.jpg",HOOLY TV 
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/b7/82/48/b782485663b8d0601566a07b77786b14.jpg",MIRAMAX 
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/d0/d1/2a/d0d12a28aa609aae61bee431b1f94897.jpg",HERSPHERE 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/55/c7/ab/55c7ab61063c2c5bf9a3ddeb90b26879.jpg",Horror Machine https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/74/73/b5/7473b50787b52486032729b0504fdeb0.jpg",BOLLY TV https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://i.pinimg.com/236x/2b/67/c6/2b67c6b251340952e5d3a3f210b0732d.jpg",OUTERSPHERE https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png",USA:  Showtime NEXT
+http://nocable.cc:8080/617321/432823/9316
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png",USA:  STARZ EDGE
+http://nocable.cc:8080/617321/432823/16143
+
+#EXTINF:-1 group-title="📺| FILM🔵",US UniMas
+http://nocable.cc:8080/617321/432823/57969
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://w7.pngwing.com/pngs/618/904/png-transparent-logo-univision-mexico-television-san-antonio-disney-junior-logo-television-text-logo.png",US Univision (East) (SP)
+http://nocable.cc:8080/617321/432823/15336
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png",US 5 StarMax
+http://nocable.cc:8080/617321/432823/13381
+
+#EXTINF:-1 group-title="📺| FILM🔵",USA: A&E
+http://nocable.cc:8080/617321/432823/59056
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://juicetv.app/channellogo/ae.png",US A&E (A)
+http://nocable.cc:8080/617321/432823/2201
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png",USA: ABC
+http://nocable.cc:8080/617321/432823/22990
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://b.thumbs.redditmedia.com/vjPoCrRZM-0Guub5k9HskQWodjmjP1OF3myBvaqLWGE.png",US ACC Network (A)
+http://nocable.cc:8080/617321/432823/9273
+
+#EXTINF:-1 group-title="📺| FILM🔵",US ActionMAX (East)
+http://nocable.cc:8080/617321/432823/21013
+
+#EXTINF:-1 group-title="📺| FILM🔵" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png",US AMC
+http://nocable.cc:8080/617321/432823/18925
+
+#EXTINF:-1 group-title="📺| FILM🔵",US American Heroes Channel
+http://nocable.cc:8080/617321/432823/10456
